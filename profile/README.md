@@ -27,17 +27,16 @@ Nuestra infraestructura está diseñada bajo un enfoque **Cloud-Native**, garant
 
 El desarrollo y despliegue de RoomieSmart es posible gracias al trabajo colaborativo de nuestro equipo:
 
-* **Esteban Larrea** - Software Engineer
-* **Kevin Tenorio** - Software Engineer
-* **Jonathan Plaza** - Software Engineer
-* **Luis Luna** - Software Engineer
+* **Esteban Larrea** - Backend 
+* **Jonathan Plaza** - Scrum master
+* **Luis Luna** - Frontend
 * **Ricardo Chapi** - Cloud / DevOps Engineer
 
 ---
 
 ## 📌 Repositorios Principales
 
-* 🌐 [roomiesmart-frontend](https://github.com/TU_ORGANIZACION/roomiesmart-frontend): Interfaz de usuario web optimizada y responsive.
-* ⚙️ [roomiesmart-backend](https://github.com/TU_ORGANIZACION/roomiesmart-backend): Lógica de negocio, autenticación y conexión segura a Supabase.
+* 🌐 [roomiesmart-frontend](https://github.com/roomiesmart-app/roomiesmart-frontend): Interfaz de usuario web optimizada y responsive.
+* ⚙️ [roomiesmart-backend](https://github.com/roomiesmart-app/roomiesmart-backend): Lógica de negocio, autenticación y conexión segura a Supabase.
 
 > **Nota:** Todos los despliegues de la rama `main` y `dev` están automatizados y enlazados directamente con nuestra gestión de tareas en **Jira** para mantener una trazabilidad completa del proyecto.
